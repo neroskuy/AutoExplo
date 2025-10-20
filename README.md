@@ -41,22 +41,18 @@ git clone https://github.com/username/autoexplo-scanner.git
 cd autoexplo-scanner
 
 2. Install Python
-```bash
 Pastikan Python 3.8+ sudah terinstall:
 python3 --version
 
 Linux (Ubuntu/Debian)
-```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
 
 🔹 Termux (Android)
-```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install --upgrade pip
 
 3. Install Modul Python
-```bash
 pip install requests beautifulsoup4 colorama urllib3
 python3 autoexplo.py list.txt
