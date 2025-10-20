@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neroskuy/AutoExplo/refs/heads/main/explo.jpg
-" width="800" height="400" alt="auto explo jpg" />
+  <img src="https://raw.githubusercontent.com/neroskuy/AutoExplo/refs/heads/main/explo.jpg" width="800" height="400"/>
 </p>
 # 🚀 AUTOEXPLO SCANNER
 Tool ini dibuat untuk scanning berbagai **vulnerability** & **misconfiguration** secara otomatis dari daftar target.  
